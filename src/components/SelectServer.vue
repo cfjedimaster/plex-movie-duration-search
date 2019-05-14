@@ -22,7 +22,7 @@ export default {
   name: "SelectServer",
   data() {
     return {
-      server: "76.72.11.11",
+      server: "",
       serverError: false
     };
   },
