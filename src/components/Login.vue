@@ -42,7 +42,7 @@ export default {
   name: "Login",
   data() {
     return {
-      username: "raymondcamden",
+      username: "",
       password: "",
       loginError: false
     };
